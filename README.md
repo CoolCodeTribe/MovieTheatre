@@ -53,4 +53,4 @@
 
 ## 学习资源
 
-- git学习笔记：https://ideepspace.gitbooks.io/git/content/
+- git学习笔记：http://ideepspace.gitee.io/book-git/
